@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63e026c6-36e3-4dfa-ad7f-4e6d353852de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!thaibinhhotel!longhau.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!thaibinhhotel!longhau.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.d4870b5cc94c5bf4c986c8d14498f3ee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.474f544b.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.474f544b.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2c9c0a14.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2c9c0a14.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.876917db.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.876917db.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c5d986b8.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.c5d986b8.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6ea2f88d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.6ea2f88d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/brand-icons.13db00b7.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/brand-icons.a046592b.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/brand-icons.a1a749e8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/brand-icons.c5ebe0b3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/brand-icons.e8c322de.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/flags.9c74e172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/icons.0ab54153.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/icons.8e3c7f55.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/icons.962a1bf3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/icons.b87b9ba5.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/icons.faff9214.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/loader-big.a770b679.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/outline-icons.701ae6ab.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/outline-icons.82f60bd0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/outline-icons.ad97afd3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/outline-icons.cd6c777f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/outline-icons.ef60a4f6.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/rw-widgets.12f0820c.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/rw-widgets.792dcd18.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/rw-widgets.bc7c4a59.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/rw-widgets.eceddf47.ttf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +100,11 @@
               <item name="TBHotel" type="b2602c69:ProjectViewProjectNode" />
               <item name="TBHotel" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TBHotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TBHotel" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,16 +141,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573006486891</updated>
-      <workItem from="1573006488657" duration="2373000" />
+      <workItem from="1573006488657" duration="2651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2373000" />
+    <option name="totallyTimeSpent" value="2651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
