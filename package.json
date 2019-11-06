@@ -1,0 +1,46 @@
+{
+  "name": "hotel",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://thaibinhhotel.github.io/longhau/",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.1.1",
+    "globalize": "^1.4.2",
+    "moment": "^2.24.0",
+    "react": "^16.11.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "react-toastify": "^5.4.0",
+    "react-widgets": "^4.4.11",
+    "react-widgets-globalize": "^5.0.20",
+    "react-widgets-moment": "^4.0.27",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-icon": "^2.3.3",
+    "semantic-ui-react": "^0.88.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
